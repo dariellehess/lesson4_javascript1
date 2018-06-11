@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+6/15/18
 
 ### Student Name:  
-(First and Last Name)
+Darielle Hess
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I had to edit an index.html and a javascript file in order to make an expense calculator application function properly.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://dariellehess.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that JavaScript differs greatly from HTML in its syntax.
+2. I also learned how to declare variables in JavaScript.
+3. I learned that getElementbyId() is a document object method that references elements on a web page using its id value.
 
 
 
